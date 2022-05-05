@@ -1,8 +1,8 @@
 
 <div align="center">
 <h1>
-Hello
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+ Hello
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  I'm Vidyoot Senthil
 </h1>
 </div>
@@ -21,6 +21,8 @@ Hello
   <li>VR Game Creation</li>
   <li>Fullstack Web Development</li>
 </ul>
+<h2>⭐ Stats ⭐</h2>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -41,7 +43,3 @@ Hello
   <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vidyoots@gmail.com"> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <a href = https://www.linkedin.com/in/vidyoot-senthil-venkatesh-b60040203/><img                                                                                                                              src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="vscode" style="vertical-align:top; margin:4px"> 
 </div> 
-<h2>⭐ Stats ⭐</h2>
- <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
