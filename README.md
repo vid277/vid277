@@ -11,6 +11,9 @@
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
  
+ <h2>⭐ Stats ⭐</h2>
+[![Vidyoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vid277)](https://github.com/vid277/vid277)
+
 <h2>About Me</h2>
 <p1>I'm a 15 year old self taught programmer located in the United States!</p1> 
 
@@ -21,9 +24,6 @@
   <li>VR Game Creation</li>
   <li>Fullstack Web Development</li>
 </ul>
-<h2>⭐ Stats ⭐</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<h2>:hammer_and_wrench: Languages and Tools :</h2>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">    
