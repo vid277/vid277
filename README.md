@@ -9,7 +9,6 @@ Hello
 
 <div align="center">
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-<br>
 </div>
  
 <h2>About Me</h2>
@@ -22,7 +21,6 @@ Hello
   <li>VR Game Creation</li>
   <li>Fullstack Web Development</li>
 </ul>
-</br>
 <h2>:hammer_and_wrench: Languages and Tools :</h2>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -37,6 +35,10 @@ Hello
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/css3.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/html.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
+<h2>📬 Contact Me! </h2>
+<div align = "center">
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vidyoots@gmail.com"> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="vscode" style="vertical-align:top; margin:4px">
+  <a href = https://www.linkedin.com/in/vidyoot-senthil-venkatesh-b60040203/><img                                                                                                                              src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="vscode" style="vertical-align:top; margin:4px"> </div> 
 <h2>⭐ Stats ⭐</h2>
+![Vidyoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vid277&count_private=true)
