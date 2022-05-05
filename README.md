@@ -10,7 +10,6 @@ Hello
 <div align="center">
 <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 <br>
-<a href="https://twitter.com/8bithemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </div>
  
 <h2>About Me</h2>
@@ -42,4 +41,3 @@ Hello
 
 </p>
 <h2>⭐ Stats ⭐</h2>
-![Vidyoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vid277&show_icons=true&theme=dracula)
