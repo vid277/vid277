@@ -1,2 +1,1 @@
-[![Vidyoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vid277)](https://github.com/vid277/vidyoot_senthil/edit/main/README.md)
-![Vidyoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vid277&show_icons=true)
+![Vidyoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vid277&show_icons=true%theme=dracula)
