@@ -12,7 +12,7 @@
 </div>
  
  <h2>⭐ Stats ⭐</h2>
-[![Vidyoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vid277)](https://github.com/vid277/vid277)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vid277)
 
 <h2>About Me</h2>
 <p1>I'm a 15 year old self taught programmer located in the United States!</p1> 
