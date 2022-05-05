@@ -39,6 +39,9 @@ Hello
 <h2>📬 Contact Me! </h2>
 <div align = "center">
   <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=vidyoots@gmail.com"> <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/gmail.svg" alt="vscode" style="vertical-align:top; margin:4px">
-  <a href = https://www.linkedin.com/in/vidyoot-senthil-venkatesh-b60040203/><img                                                                                                                              src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="vscode" style="vertical-align:top; margin:4px"> </div> 
+  <a href = https://www.linkedin.com/in/vidyoot-senthil-venkatesh-b60040203/><img                                                                                                                              src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/social/linkedin.svg" alt="vscode" style="vertical-align:top; margin:4px"> 
+</div> 
 <h2>⭐ Stats ⭐</h2>
-![Vidyoot's GitHub stats](https://github-readme-stats.vercel.app/api?username=vid277&count_private=true)
+ <div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
