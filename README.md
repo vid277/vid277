@@ -19,6 +19,7 @@
   <li>Machine Learning</li>
   <li>VR Game Creation</li>
   <li>Fullstack Web Development</li>
+  <li>Robotics</li>
 </ul>
 <h2>:hammer: Languages and Tools</h2>
 <p align="center">
