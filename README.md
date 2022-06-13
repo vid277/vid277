@@ -1,8 +1,8 @@
 
 <div align="center">
 <h1>
- Hello
-👋 I'm Vidyoot Senthil
+ Hello👋
+ I'm Vidyoot Senthil
 </h1>
 </div>
 
