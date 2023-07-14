@@ -1,6 +1,13 @@
 # 💫 About Me:
-🌱 I’m currently learning Object Detection and Semantic Segementation<be>
-
+My name is ***Vidyoot Senthilvenkatesh***.<br> <br> 
+🌱 ***Rising Senior*** @ The Illinois Mathematics and Science Academy.
+<br>
+🌱 ***Student researcher*** at the Wei-Jen Tang Lab at the University of Chicago. 
+<br>
+🌱 ***Software Intern*** at Caterpillar Inc. 
+<br>
+🌱 ***Student Researcher*** at National Center for Supercomputing Research (NCSA). 
+<br>
 ## 💬 My Current Interests Include:
 ⚡Game Development with Unity and Unreal Engine<br>⚡Data Science and Visualization<br>⚡Fullstack Web Development<br>⚡Robotics
 
