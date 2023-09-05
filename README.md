@@ -2,7 +2,7 @@
 My name is ***Vidyoot Senthilvenkatesh***.<br> <br> 
 🌱 ***Rising Senior*** @ The Illinois Mathematics and Science Academy.
 <br>
-🌱 ***Student researcher*** at the Wei-Jen Tang Lab at the University of Chicago. 
+🌱 ***Student Researcher*** at the Wei-Jen Tang Lab at the University of Chicago. 
 <br>
 🌱 ***Software Intern*** at Caterpillar Inc. 
 <br>
