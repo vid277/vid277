@@ -2,11 +2,11 @@
 My name is ***Vidyoot Senthilvenkatesh***.<br> <br> 
 🌱 ***Rising Senior*** @ The Illinois Mathematics and Science Academy.
 <br>
-🌱 ***Student Researcher*** at the Wei-Jen Tang Lab at the University of Chicago. 
+🌱 ***Student Researcher*** @ the Wei-Jen Tang Lab at the University of Chicago. 
 <br>
-🌱 ***Software Intern*** at Caterpillar Inc. 
+🌱 ***Software Intern*** @ Caterpillar Inc. 
 <br>
-🌱 ***Student Researcher*** at National Center for Supercomputing Research (NCSA). 
+🌱 ***Student Researcher*** @ National Center for Supercomputing Research (NCSA). 
 <be>
 
 ## 📂 Ongoing Projects:
