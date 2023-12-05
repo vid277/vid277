@@ -1,6 +1,6 @@
 # 💫 About Me:
 My name is ***Vidyoot Senthilvenkatesh***.<br> <br> 
-🌱 ***Rising Senior*** @ The Illinois Mathematics and Science Academy.
+🌱 ***Senior*** @ The Illinois Mathematics and Science Academy.
 <br>
 🌱 ***Student Researcher*** @ the Wei-Jen Tang Lab at the University of Chicago. 
 <br>
