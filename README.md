@@ -2,9 +2,9 @@
 My name is ***Vidyoot Senthilvenkatesh***.<br> <br> 
 🌱 ***Senior*** @ The Illinois Mathematics and Science Academy.
 <br>
-🌱 ***Student Researcher*** @ the Wei-Jen Tang Lab at the University of Chicago. 
+🌱 ***Student Researcher*** @ the University of Chicago. 
 <br>
-🌱 ***Software Intern*** @ Caterpillar Inc. 
+🌱 ***Software Engineering Intern*** @ Caterpillar Inc. 
 <br>
 🌱 ***Student Researcher*** @ National Center for Supercomputing Research (NCSA). 
 <be>
@@ -13,10 +13,9 @@ My name is ***Vidyoot Senthilvenkatesh***.<br> <br>
 ⭐ ***Cloud-Upside2-Py3***: Utilizes the Upside 2.0 library developed by the Sosnick lab using Python 3.7+ to run coarse-grained simulations on the cloud utilizing the Google Colab system.
 <br>
 <br>
-⭐ ***Cloud-Upside1-Py2***: Utilizes the Upside 1.0 library developed by the Sosnick lab using Python 2.7+ to run coarse-grained simulations on the large-scale Midway and Beagle3 computing systems at the University of Chicago. 
+⭐ ***Trieve Librarian***: Utilizing the Trieve API and semantic search infrastructure to quickly index and search through bookmarks.
 <br>
 <br>
-⭐ ***MD-Protein-Simulations***: Contains various analysis tools that assist in analyzing the M13 and M16 protein families.
 
 ## 💬 My Current Interests Include:
 ⚡Game Development with Unity and Unreal Engine<br>⚡Data Science and Visualization<br>⚡Fullstack Web Development<br>⚡Robotics
