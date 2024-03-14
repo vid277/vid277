@@ -6,9 +6,9 @@ My name is ***Vidyoot Senthilvenkatesh***.<br> <br>
 <br>
 🌱 ***Software Engineering Intern*** @ Caterpillar Inc. 
 <br>
-🌱 ***Software Engineering Intern*** @ Trieve. 
-<br>
 🌱 ***Student Researcher*** @ National Center for Supercomputing Research (NCSA). 
+<be>
+🌱 ***Software Engineering Intern*** @ Trieve. 
 <be>
 
 ## 📂 Ongoing Projects:
