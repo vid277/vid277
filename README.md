@@ -4,11 +4,11 @@ My name is ***Vidyoot Senthilvenkatesh***.<br> <br>
 <br>
 🌱 ***Student Researcher*** @ the University of Chicago. 
 <br>
-🌱 ***Software Engineering Intern*** @ Caterpillar Inc. 
-<br>
 🌱 ***Student Researcher*** @ National Center for Supercomputing Research (NCSA). 
 <br>
 🌱 ***Software Engineering Intern*** @ Trieve. 
+<br>
+🌱 ***Former Software Engineering Intern*** @ Caterpillar Inc. 
 <be>
 
 ## 📂 Ongoing Projects:
