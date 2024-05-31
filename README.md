@@ -2,20 +2,19 @@
 My name is ***Vidyoot Senthilvenkatesh***.<br> <br> 
 🌱 ***Senior*** @ The Illinois Mathematics and Science Academy.
 <br>
-🌱 ***Student Researcher*** @ the University of Chicago. 
+🌱 ***Incoming Frosh*** @ Georgia Institute of Technology.
 <br>
-🌱 ***Student Researcher*** @ National Center for Supercomputing Research (NCSA). 
+🌱 ***Student Researcher*** @ the University of Chicago. 
 <br>
 🌱 ***Software Engineering Intern*** @ Trieve. 
 <br>
-🌱 ***Former Software Engineering Intern*** @ Caterpillar Inc. 
+🌱 ***Software Engineering Intern*** @ Caterpillar Inc. 
+<br>
+🌱 ***Former Student Researcher*** @ National Center for Supercomputing Research (NCSA). 
 <be>
 
 ## 📂 Ongoing Projects:
 ⭐ ***Cloud-Upside2-Py3***: Utilizes the Upside 2.0 library developed by the Sosnick lab using Python 3.7+ to run coarse-grained simulations on the cloud utilizing the Google Colab system.
-<br>
-<br>
-⭐ ***Trieve Librarian***: Utilizing the Trieve API and semantic search infrastructure to quickly index and search through bookmarks.
 <br>
 <br>
 
