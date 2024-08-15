@@ -3,7 +3,7 @@
 
 My name is ***Vidyoot Senthilvenkatesh***.<br>
 
-🌱 ***Incoming Frosh*** @ Georgia Tech.
+🌱 ***Frosh*** @ Georgia Tech.
 <br>
 🌱 ***Student Researcher*** @ the University of Chicago. 
 <br>
