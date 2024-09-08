@@ -3,13 +3,13 @@
 
 My name is ***Vidyoot Senthilvenkatesh***.<br>
 
-🌱 ***Frosh*** @ Georgia Tech.
+🌱 ***Freshman*** @ Georgia Tech.
 <br>
-🌱 ***Student Researcher*** @ the University of Chicago. 
+🌱 ***Software Developer*** @ Trieve.
 <br>
-🌱 ***Software Engineering Intern*** @ Trieve.
+🌱 ***Former Student Researcher*** @ the University of Chicago. 
 <br>
-🌱 ***Software Engineering Intern and Student-Technical Trainee*** @ Caterpillar Inc. 
+🌱 ***Former Software Engineering Intern and Student-Technical Trainee*** @ Caterpillar Inc. 
 <br>
 🌱 ***Former Student Researcher*** @ National Center for Supercomputing Research (NCSA). 
 <be>
