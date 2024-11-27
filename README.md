@@ -1,17 +1,17 @@
 # 💫 About Me:
 <img src="https://komarev.com/ghpvc/?username=vid277&style=flat-square&color=blue" alt=""/>
 
-My name is ***Vidyoot Senthil!***.<br>
+My name is ***Vidyoot Senthil!***<br>
 
-🌱 ***Freshman*** @ Georgia Tech.
+🌱 ***Freshman*** @ Georgia Tech
 <br>
-🌱 ***Software Developer*** @ Trieve.
+🌱 ***Software Developer*** @ Trieve
 <br>
-🌱 ***Former Student Researcher and Dynalab Co-founder*** @ the University of Chicago. 
+🌱 ***Former Student Researcher and Dynalab Co-founder*** @ the University of Chicago
 <br>
-🌱 ***Former Software Engineering Intern and Student-Technical Trainee*** @ Caterpillar Inc. 
+🌱 ***Former Software Engineering Intern and Student-Technical Trainee*** @ Caterpillar Inc
 <br>
-🌱 ***Former Student Researcher*** @ National Center for Supercomputing Research (NCSA). 
+🌱 ***Former Student Researcher*** @ National Center for Supercomputing Research (NCSA)
 <be>
 
 ## 🌐 Socials:
