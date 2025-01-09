@@ -24,8 +24,7 @@ Want to build / chat? Shoot me an email! <a href="mailto:vsenthil31@gatech.edu">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vid277&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vid277&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vid277&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vid277)](https://git.io/streak-stats)
 
 ### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=vid277&limit=5&theme=darkhub&combine_all_yearly_contributions=true)
