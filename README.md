@@ -3,7 +3,7 @@
 
 My name is ***Vidyoot Senthil!***<br>
 
-🌱 ***Freshman*** @ Georgia Tech
+🌱 ***CS*** @ Georgia Tech
 <br>
 🌱 ***Software Developer*** @ Trieve
 <br>
