@@ -9,7 +9,7 @@ My name is ***Vidyoot Senthil!***<br>
 <br>
 🌱 ***Former Student Researcher and Dynalab Co-founder*** @ the University of Chicago
 <br>
-🌱 ***Former Software Engineering Intern and Student-Technical Trainee*** @ Caterpillar Inc
+🌱 ***Former SWE Intern*** @ Caterpillar Inc
 <br>
 🌱 ***Former Student Researcher*** @ National Center for Supercomputing Research (NCSA)
 <be>
