@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img src="https://komarev.com/ghpvc/?username=vid277&style=flat-square&color=blue" alt=""/>
 
-My name is ***Vidyoot Senthil!***<br>
+I'm ***Vidyoot Senthil!***<br>
 
 🌱 ***CS*** @ Georgia Tech
 <br>
