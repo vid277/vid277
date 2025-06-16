@@ -15,7 +15,7 @@ I'm ***Vidyoot Senthil!***<br>
 <be>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vidyoot.senthil/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vidyootsenthil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyoot-senthil-venkatesh-b60040203/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vidyootsenthil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyoot-senthil-venkatesh-b60040203/)
 
 Want to build / chat? Shoot me an email! <a href="mailto:vsenthil31@gatech.edu">`vsenthil31@gatech.edu`</a>
 
