@@ -8,9 +8,6 @@ i'm ***vidyoot senthil!***<br>
 - prev @ trieve (acq.), mintlify, and caterpillar
 - prev student researcher and dynalab co-founder @ uchicago
 
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vidyootsenthil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidyoot-senthil-venkatesh-b60040203/)
-
 want to build / chat? shoot me an email! <a href="mailto:vsenthil31@gatech.edu">`vsenthil31@gatech.edu`</a>
 
 # 📊 Github Stats
