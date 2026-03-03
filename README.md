@@ -4,8 +4,7 @@
 i'm ***vidyoot senthil!***<br>
 
 - cs @ georgia tech
-- current swe @ ergo (yc w25)
-- prev @ trieve (acq.), mintlify, and caterpillar
+- prev @ trieve (acq.), mintlify, ergo, and caterpillar
 - prev student researcher and dynalab co-founder @ uchicago
 
 want to build / chat? shoot me an email! <a href="mailto:vsenthil31@gatech.edu">`vsenthil31@gatech.edu`</a>
